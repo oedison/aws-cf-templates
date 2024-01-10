@@ -1,1 +1,1 @@
-# aws-sam-templates
+# AWS CloudFormation templates
